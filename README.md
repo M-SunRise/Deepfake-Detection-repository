@@ -1,2 +1,2 @@
 # Deepfake-Detection-repository
-Third-party Deepfake Detection implementation
+Deepfake Detection paper collections and model implementations(Official and Third-party)
